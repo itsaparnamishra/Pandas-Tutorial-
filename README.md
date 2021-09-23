@@ -1,2 +1,7 @@
 # Python and its libraries
-Considers a basic Pandas Tutorial. 
+# Covers a basic Pandas Tutorial. 
+# Covers a basic Numpy Tutorial. 
+# Covers a basic Matplotlib Tutorial. 
+
+
+
