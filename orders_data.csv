@@ -1,0 +1,9 @@
+﻿orderId,amount,status
+12,200,dispatched
+113,2000,delivered
+104,7600,packed
+15,4560,dispatched
+18,23800,delivered
+122,34500,delivered
+1678,6533,delivered
+1233,0,canceled
